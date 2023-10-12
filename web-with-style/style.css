@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+
+/* to stylr an element, I first
+name the element, then write style
+inside the {...} */
+h2{
+
+    /* styles consist of an
+    attribute: value pair */
+    color:rgb(116, 211, 116);
+}
+
+
+img{
+    width: 400px;
+
+}
+
+p{
+    font-family: fantasy;
+    font-size: medium;
+}
+
+.firstRexCaption{
+    color: blue;
+}
+
+.secondRexCaption{
+    color: orange;
+}
+
+.highlight{
+    font-size: medium;
+    color: brown;
+    font-weight: 100;
+    background-color: black;
+    text-decoration: overline;
+}
+
