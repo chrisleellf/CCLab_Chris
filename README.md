@@ -1,7 +1,8 @@
 # CCLab
  
 here is my website https://github.com/chrisleellf/CCLab_Chris 
-and this is the live version of it on GitHub Paages
+and this is the live version of it on GitHub Pages
+https://chrisleellf.github.io/CCLab_Chris/
 
 This is the root, or very base of my cclab folder. 
 
