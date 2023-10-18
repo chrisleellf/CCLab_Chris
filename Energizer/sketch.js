@@ -75,9 +75,12 @@ function draw() {
   if (y < 300) {
     y = 300;
     if ( y == 300){
+    push();
+    fill("red");
     textSize(15);
     text("Click anywhere to create food!", 350, 50);
         drawfood(xArray, yArray);
+    pop();
 
     }
   }
@@ -149,7 +152,7 @@ function drawSSP(xpos, ypos) {
   }
   pop();
 }
-//This funtion is for the circular food
+//This funtion is for the food
 function drawfood(xArray, yArray) {
   push();
   noStroke();

@@ -1,11 +1,41 @@
-.title{
+h1{
     font-size: 100px;
     color: green;
     font-family: fantasy;
     text-decoration:overline;
     background-color: brown;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+    font-family: fantasy;
 }
 
 p{
     font-size: 30px;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+
+img{
+    border: 10px solid black;
+    display: block;
+    margin: auto;
+}
+
+canvas{
+    border: 10px solid black;
+    display: block;
+    margin: auto;
 }
