@@ -1,0 +1,11 @@
+.title{
+    font-size: 100px;
+    color: green;
+    font-family: fantasy;
+    text-decoration:overline;
+    background-color: brown;
+}
+
+p{
+    font-size: 30px;
+}
