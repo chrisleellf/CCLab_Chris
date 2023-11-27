@@ -1,0 +1,105 @@
+/* This is for the heading */
+body{
+  background-color: antiquewhite;
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+  outline: 4px rgb(236, 77, 15) dotted;
+  background-color:rgb(127, 42, 127);
+}
+
+.M{
+  font-size: 90px;
+  color:red;
+  font-family: monospace;
+  font-stretch: expanded;
+  outline: 4px rgb(247, 3, 3) dotted;
+  margin-right: 5px;
+  background-color: aliceblue;
+}
+
+.C{
+  font-size: 90px;
+  color: rgb(39, 39, 213);
+  font-family: monospace;
+  font-stretch: expanded;
+  outline: 4px blue dotted;
+  margin-right: 5px;
+  margin-left: 10px;
+  background-color: aliceblue;
+}
+
+.R{
+  font-size: 60px;
+}
+
+/* This is for "Start" */
+.Design{
+  font-size: 50px;
+  text-align: center;
+  font-family: fantasy;
+  color: rgb(236, 77, 15);
+  padding: 30px;
+  width: 500px;
+  background-color: cadetblue;
+  text-decoration: dashed;
+  margin-left: 750px;
+  outline: 4px rgb(236, 77, 15) dotted;
+  position: absolute;
+
+}
+
+/* This is for the image1 (try now!) */
+.trythis{
+  width: 400px;
+  height: 150px;
+  margin-left: 1300px;
+  position: absolute;
+  top: 170px;
+}
+
+/* This is for the canvas */
+canvas{
+  margin-left: 750px;
+  margin-top: 30px;
+  outline-style: solid;
+  outline: 4px rgb(236, 77, 15) dotted;
+  position: absolute;
+  top:310px;
+}
+
+/* This is for the text */
+.Text{
+  background-color: rgb(224, 207, 241);
+  color: rgb(59, 40, 40);
+  font-size: 20px;
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  top: 185px;
+  outline: 4px rgb(236, 77, 15) dotted;
+  left: 20px;
+}
+
+/* This is for random monster pictures */
+.empty{
+  position: absolute;
+  width: 500px;
+  height: 400px;
+  margin-top: 735px;
+  margin-left: 110px;
+  background-color: rgb(224, 207, 241);
+  outline: 4px rgb(236, 77, 15) dotted;
+}
+
+.sun{
+  position: absolute;
+  width: 400px;
+  height: 300px;
+  margin-top: 790px;
+  margin-left: 160px;
+  outline: 3px black solid;
+}
+
+

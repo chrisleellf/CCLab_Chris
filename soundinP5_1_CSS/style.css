@@ -1,0 +1,51 @@
+p{
+    color: green;
+    /* background-color: aqua; */
+    /* outline-color: black;
+    outline-width: 1px;
+    outline-style: dotted; */
+
+}
+
+/* select classes with "." and classname */
+.description{
+    text-decoration: underline;
+}
+
+#canvasWrapper{
+    /* background-color: blueviolet; */
+    outline: 2px green solid;
+}
+
+.p5Name{
+    /* background-color: bisque; */
+    outline: 3px pink solid;
+}
+
+.captionWrapper{
+    margin: 30px;
+    padding: 5px;
+    outline: 1px black solid;
+    background-color: antiquewhite;
+}
+
+.caption{
+    outline: 1px red dotted;
+    margin: 0px;
+}
+
+.box2{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+}
+
+.box3{
+    position: fixed;
+}
+
+.box1{
+    position: relative;
+    left: 30px;
+    top: 10px;
+}
