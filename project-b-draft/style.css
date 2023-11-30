@@ -60,7 +60,7 @@ h1{
 
 /* This is for the canvas */
 canvas{
-  margin-left: 750px;
+  margin-left: 950px;
   margin-top: 30px;
   outline-style: solid;
   outline: 4px rgb(236, 77, 15) dotted;
@@ -87,7 +87,7 @@ canvas{
   width: 500px;
   height: 400px;
   margin-top: 735px;
-  margin-left: 110px;
+  margin-left: 550px;
   background-color: rgb(224, 207, 241);
   outline: 4px rgb(236, 77, 15) dotted;
 }
@@ -97,7 +97,7 @@ canvas{
   width: 400px;
   height: 300px;
   margin-top: 790px;
-  margin-left: 160px;
+  margin-left: 600px;
   outline: 3px black solid;
 }
 
