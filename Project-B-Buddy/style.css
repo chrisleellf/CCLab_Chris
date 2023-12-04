@@ -86,3 +86,37 @@ h1{
   margin-top: 200px;
   position: absolute;
 }
+
+/* This is for "Start" */
+.Design{
+  font-size: 50px;
+  text-align: center;
+  font-family: fantasy;
+  color: rgb(236, 77, 15);
+  padding: 30px;
+  width: 500px;
+  background-color: cadetblue;
+  text-decoration: dashed;
+  margin-left: 50px;
+  outline: 4px rgb(236, 77, 15) dotted;
+  position: absolute;
+}
+
+/* This is for the image1 (try now!) */
+.trythis{
+  width: 400px;
+  height: 150px;
+  margin-left: 600px;
+  position: absolute;
+  top: 170px;
+}
+
+/* This is for the canvas */
+canvas{
+  margin-left: 500px;
+  margin-top: 30px;
+  outline-style: solid;
+  outline: 4px rgb(236, 77, 15) dotted;
+  position: absolute;
+  top:310px;
+}
