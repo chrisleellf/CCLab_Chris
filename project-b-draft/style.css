@@ -34,40 +34,6 @@ h1{
   font-size: 60px;
 }
 
-/* This is for "Start" */
-.Design{
-  font-size: 50px;
-  text-align: center;
-  font-family: fantasy;
-  color: rgb(236, 77, 15);
-  padding: 30px;
-  width: 500px;
-  background-color: cadetblue;
-  text-decoration: dashed;
-  margin-left: 750px;
-  outline: 4px rgb(236, 77, 15) dotted;
-  position: absolute;
-}
-
-/* This is for the image1 (try now!) */
-.trythis{
-  width: 400px;
-  height: 150px;
-  margin-left: 1300px;
-  position: absolute;
-  top: 170px;
-}
-
-/* This is for the canvas */
-canvas{
-  margin-left: 950px;
-  margin-top: 30px;
-  outline-style: solid;
-  outline: 4px rgb(236, 77, 15) dotted;
-  position: absolute;
-  top:310px;
-}
-
 /* This is for the text */
 .Text{
   background-color: rgb(224, 207, 241);
@@ -119,24 +85,4 @@ canvas{
   font-size: 50px;
   margin-top: 200px;
   position: absolute;
-}
-
-/* This is for random monster pictures */
-.empty{
-  position: absolute;
-  width: 500px;
-  height: 400px;
-  margin-top: 735px;
-  margin-left: 550px;
-  background-color: rgb(224, 207, 241);
-  outline: 4px rgb(236, 77, 15) dotted;
-}
-
-.sun{
-  position: absolute;
-  width: 400px;
-  height: 300px;
-  margin-top: 790px;
-  margin-left: 600px;
-  outline: 3px black solid;
 }
